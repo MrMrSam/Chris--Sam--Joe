@@ -1,0 +1,93 @@
++++ Love Can Bloom (Warhammer 30,000 - The Horus Heresy v49) (3995pts) +++ (+5 To Chris)
+
+++ The Age of Darkness (Legiones Astartes: Age of Darkness Army List v210) (3995pts) ++
+
++ HQ (300pts) +
+
+········Legion Praetor (125pts) [  VII: Imperial Fists, Artificer Armour, Boarding Shield, Charnabal Sabre, Meltabomb]
+
+········Section Leader Crysos Mortug (175pts)
+
++ Elites (690pts) +
+
+
+········Apothecarion Detachment (60pts) [ XIV: Death Guard]
+············Legion Apothecary
+················Additional Wargear [Artificer Armour, Augury Scanner, Chainsword/Combat Blade]
+
+········Legion Quad Launcher Support Battery (210pts) [  VII: Imperial Fists, 3x Legion Rapier, Shatter Shell]
+
+········Legion Quad Launcher Support Battery (210pts) [  VII: Imperial Fists, 3x Legion Rapier, Shatter Shell]
+
+········Legion Quad Launcher Support Battery (210pts) [  VII: Imperial Fists, 3x Legion Rapier, Shatter Shell]
+
++ Troops (1370pts) +
+
+········Legion Heavy Support Squad (250pts) [  VII: Imperial Fists, Autocannon, 7x Legion Space Marines]
+············Legion Sergeant [Artificer Armour, Augury Scanner, Exchange heavy weapon for a Nuncio-vox and Chainsword/Combat Blade, Melta Bombs]
+
+········Legion Heavy Support Squad (250pts) [  VII: Imperial Fists, Autocannon, 7x Legion Space Marines]
+············Legion Sergeant [Artificer Armour, Augury Scanner, Exchange heavy weapon for a Nuncio-vox and Chainsword/Combat Blade, Melta Bombs]
+
+········Legion Heavy Support Squad (250pts) [  VII: Imperial Fists, 7x Legion Space Marines, Missile Launcher]
+············Legion Sergeant [Artificer Armour, Augury Scanner, Exchange heavy weapon for a Nuncio-vox and Chainsword/Combat Blade, Melta Bombs]
+
+········Legion Heavy Support Squad (250pts) [  VII: Imperial Fists, 7x Legion Space Marines, Missile Launcher]
+············Legion Sergeant [Artificer Armour, Augury Scanner, Exchange heavy weapon for a Nuncio-vox and Chainsword/Combat Blade, Melta Bombs]
+
+········Legion Tactical Squad (185pts) [  VII: Imperial Fists, 9x Legion Tactical Space Marines]
+············Additional Wargear [Bolters, Nuncio-vox]
+············Legion Rhino Armoured Carrier
+················Combi-weapon [Combi-weapon: Meltagun]
+············Legion Tactical Sergeant
+················Combi-weapon [Combi-weapon: Meltagun]
+
+········Legion Tactical Squad (185pts) [  VII: Imperial Fists, 9x Legion Tactical Space Marines]
+············Additional Wargear [Bolters, Nuncio-vox]
+············Legion Rhino Armoured Carrier
+················Combi-weapon [Combi-weapon: Meltagun]
+············Legion Tactical Sergeant
+················Combi-weapon [Combi-weapon: Meltagun]
+
++ Fast Attack (435pts) +
+
+········Legion Seeker Squad (435pts) [ XIV: Death Guard, 6x Legion Seeker Space Marines]
+············Additional Wargear [Nuncio-vox]
+············Land Raider Proteus [Armoured Ceramite, Twin-Linked Lascannon]
+
++ Heavy Support (345pts) +
+
+········Legion Whirlwind Scorpius (115pts) [  VII: Imperial Fists, Scorpius Multi-Launcher]
+
+········Legion Whirlwind Scorpius (115pts) [  VII: Imperial Fists, Scorpius Multi-Launcher]
+
+········Legion Whirlwind Scorpius (115pts) [  VII: Imperial Fists, Scorpius Multi-Launcher]
+
++ Legion +
+
+········Legiones Astartes [   VII: Imperial Fists,   XIV: Death Guard, Loyalist, Shattered Legions]
+
+········Rite of War [The Reaping]
+
++ Force Organization +
+
+········Force Organization
+············Battles in the Age of Darkness [ Age of Darkness Primary Detachment]
+
++ Fortification (120pts) +
+
+········Munitorum Armoured Container Cache (120pts)
+············Munitorum Armoured Container Cache
+················Munitorum Armoured Container [2x Storm Bolters]
+············Munitorum Armoured Container Cache
+················Munitorum Armoured Container [2x Storm Bolters]
+············Munitorum Armoured Container Cache
+················Munitorum Armoured Container [2x Storm Bolters]
+
++ Lords of War (735pts) +
+
+········War Machine Detachment (735pts) [ VII: Imperial Fists]
+············Legion Typhon Heavy Siege Tank (455) [Armoured Ceramite, Lascannons]
+
+············Dominus Armoured Siege Bombard (280) [Heavy Bolter, Heavy Bolter]
+
